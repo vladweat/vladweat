@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a> -->
   <a href="https://t.me/vladweat">
-    <img src="https://img.shields.io/badge/YouTube-grey?logo=telegram&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-grey?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   <a href="https://twitter.com/justweat1">
     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
