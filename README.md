@@ -5,7 +5,7 @@
   <!-- <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a> -->
-  <a href="https://www.youtube.com/channel/UChOcTt-gojNe1_CAk7Q_z8Q">
+  <a href="https://t.me/vladweat">
     <img src="https://img.shields.io/badge/YouTube-grey?logo=telegram&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/justweat1">
