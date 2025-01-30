@@ -41,21 +41,23 @@
 
 <div id="links" align="center" >
     <h2> 🔗 Links </h2>
+    <div id="badges">
     <a href="https://t.me/vladweat">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram" style="width: 3.5%; margin-right: 10px;"/>
+        <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
     <a href="https://steamcommunity.com/id/vladweat1">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" style="width: 3.5%; margin-right: 10px;"/>
+        <img src="https://img.shields.io/badge/Steam-00adee?logo=steam&logoColor=000000&style=for-the-badge" alt="Steam Badge"/>
     </a>
     <a href="https://discord.com/users/vladweat">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="Discord" style="width: 3.5%; margin-right: 10px;"/>
+        <img src="https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=ffffff&style=for-the-badge" alt="Discord Badge"/>
     </a>
     <a href="https://x.com/justweat1">
-        <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" style="width: 3.5%; margin-right: 10px;"/>
+        <img src="https://img.shields.io/badge/Twitter-55acee?logo=x&logoColor=ffffff&style=for-the-badge" alt="Twitter Badge">
     </a>
     <a href="mailto:kononov.vw@gmail.com">
-        <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Twitter" style="width: 3.5%; margin-right: 10px;"/>
+        <img src="https://img.shields.io/badge/Email-b03c2c?logo=gmail&logoColor=ffffff&style=for-the-badge" alt="Email Badge"/>
     </a>
+    </div>
 </div>
 
 <div id="stats" align="center">
