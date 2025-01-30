@@ -41,21 +41,21 @@
 
 <div id="links" align="center" >
     <h2> 🔗 Links </h2>
-    <div id="badges">
+    <div id="badges" >
     <a href="https://t.me/vladweat">
-        <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+        <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge" style="margin-right: 10px;"/>
     </a>
     <a href="https://steamcommunity.com/id/vladweat1">
-        <img src="https://img.shields.io/badge/Steam-00adee?logo=steam&logoColor=000000&style=for-the-badge" alt="Steam Badge"/>
+        <img src="https://img.shields.io/badge/Steam-00adee?logo=steam&logoColor=000000&style=for-the-badge" alt="Steam Badge" style="margin-right: 10px;"/>
     </a>
     <a href="https://discord.com/users/vladweat">
-        <img src="https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=ffffff&style=for-the-badge" alt="Discord Badge"/>
+        <img src="https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=ffffff&style=for-the-badge" alt="Discord Badge" style="margin-right: 10px;"/>
     </a>
     <a href="https://x.com/justweat1">
-        <img src="https://img.shields.io/badge/Twitter-55acee?logo=x&logoColor=ffffff&style=for-the-badge" alt="Twitter Badge">
+        <img src="https://img.shields.io/badge/Twitter-55acee?logo=x&logoColor=ffffff&style=for-the-badge" alt="Twitter Badge" style="margin-right: 10px;"/>
     </a>
     <a href="mailto:kononov.vw@gmail.com">
-        <img src="https://img.shields.io/badge/Email-b03c2c?logo=gmail&logoColor=ffffff&style=for-the-badge" alt="Email Badge"/>
+        <img src="https://img.shields.io/badge/Email-b03c2c?logo=gmail&logoColor=ffffff&style=for-the-badge" alt="Email Badge" style="margin-right: 10px;"/>
     </a>
     </div>
 </div>
