@@ -68,5 +68,8 @@
     <a href="https://github.com/vladweat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladweat&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=vladweat&style=flat-square&color=blue" alt="" style="margin-top: 10px;"/>
+</div>
+
+<div id="stats" align="center">
+<img src="https://komarev.com/ghpvc/?username=vladweat&style=flat-square&color=blue" alt="" style="margin-top: 10px;"/>
 </div>
